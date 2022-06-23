@@ -279,7 +279,7 @@
                   <a href="#" class="nav-link active">
                     <i class="nav-icon fa fa-pie-chart"></i>
                     <p>
-                      نگاره‌ها
+                      نمودارها
                       <i class="right fa fa-angle-left"></i>
                     </p>
                   </a>
@@ -632,7 +632,7 @@
                           data-fgColor="#00a65a"
                         />
 
-                        <div class="knob-label">آپتایم سرور</div>
+                        <div class="knob-label">زمان به‌کار دستگاه خادم</div>
                       </div>
                       <!-- ./col -->
                       <div class="col-6 col-md-3 text-center">
@@ -645,7 +645,7 @@
                           data-fgColor="#00c0ef"
                         />
 
-                        <div class="knob-label">فضای سرور</div>
+                        <div class="knob-label">فضای خادم</div>
                       </div>
                       <!-- ./col -->
                     </div>
@@ -662,7 +662,7 @@
                           data-fgColor="#932ab6"
                         />
 
-                        <div class="knob-label">پهنای باند</div>
+                        <div class="knob-label">پهنای داده</div>
                       </div>
                       <!-- ./col -->
                       <div class="col-6 text-center">
@@ -675,7 +675,7 @@
                           data-fgColor="#39CCCC"
                         />
 
-                        <div class="knob-label">CPU</div>
+                        <div class="knob-label">پردازشگر</div>
                       </div>
                       <!-- ./col -->
                     </div>
@@ -891,11 +891,13 @@
 
             <!-- callout -->
             <div class="callout callout-info">
-              <h5>The following was created using data tags</h5>
+              <h5>نمودارهای زیر بوسیله برچسب داده ساخته شده‌اند</h5>
 
               <p>
-                The following three inline (sparkline) chart have been
-                initialized to read and interpret data tags
+                سه نمودار «خطی‌جرقه‌ای» زیر، «برچسب‌های داده» داخل همان خط را
+                خوانده و تفسیر کرده و به نمایش میگذارند.<br />
+                نمودار «خطی‌جرقه‌‌ای» به نمودارهایی بسیار کوچک که معمولاً بدون
+                محور و مختصات رسم میشوند گفته میشود.
               </p>
             </div>
             <!-- /.callout -->
@@ -904,7 +906,7 @@
               <div class="col-md-4">
                 <div class="card">
                   <div class="card-header">
-                    <h3 class="card-title text-danger">Sparkline تیکه ای</h3>
+                    <h3 class="card-title text-danger">خطی‌جرقه‌ای تیکه‌ای</h3>
 
                     <div class="card-tools">
                       <button type="button" class="btn btn-tool">
@@ -933,7 +935,7 @@
               <div class="col-md-4">
                 <div class="card">
                   <div class="card-header">
-                    <h3 class="card-title text-primary">Sparkline خطی</h3>
+                    <h3 class="card-title text-primary">خطی‌جرقه‌ای خطی</h3>
 
                     <div class="card-tools">
                       <button type="button" class="btn btn-tool">
@@ -971,7 +973,7 @@
               <div class="col-md-4">
                 <div class="card">
                   <div class="card-header">
-                    <h3 class="card-title text-warning">Sparkline ستونی</h3>
+                    <h3 class="card-title text-warning">خطی‌جرقه‌ای ستونی</h3>
 
                     <div class="card-tools">
                       <button type="button" class="btn btn-tool">
@@ -1005,7 +1007,7 @@
               <div class="col-12">
                 <div class="card">
                   <div class="card-header">
-                    <h3 class="card-title">نمونه‌های Sparkline</h3>
+                    <h3 class="card-title">نمونه‌های خطی‌جرقه‌ای</h3>
 
                     <div class="card-tools">
                       <button
@@ -1029,56 +1031,59 @@
                     <div class="row">
                       <div class="col-sm-6">
                         <p>
-                          Mouse speed <span id="mousespeed">Loading..</span>
+                          سرعت موشواره
+                          <span id="mousespeed">درحال بارگیری..</span>
                         </p>
 
                         <p>
-                          Inline <span class="sparkline-1">10,8,9,3,5,8,5</span>
-                          line graphs
+                          داخل‌خطی
+                          <span class="sparkline-1">10,8,9,3,5,8,5</span>
+                          نمودار خطی
                           <span class="sparkline-1"
                             >8,4,0,0,0,0,1,4,4,10,10,10,10,0,0,0,4,6,5,9,10</span
                           >
                         </p>
 
                         <p>
-                          Bar charts
-                          <span class="sparkbar">10,8,9,3,5,8,5</span> negative
-                          values:
-                          <span class="sparkbar">-3,1,2,0,3,-1</span> stacked:
+                          نمودار میله‌ای
+                          <span class="sparkbar">10,8,9,3,5,8,5</span> ارزشهای
+                          منفی:
+                          <span class="sparkbar">-3,1,2,0,3,-1</span>
+                          تپه‌ای/پشته‌ای:
                           <span class="sparkbar">0:2,2:4,4:2,4:1</span>
                         </p>
 
                         <p>
-                          Composite inline
+                          داخل‌خطی مرکب
                           <span id="compositeline"
                             >8,4,0,0,0,0,1,4,4,10,10,10,10,0,0,0,4,6,5,9,10</span
                           >
                         </p>
 
                         <p>
-                          Inline with normal range
+                          داخل‌خطی با محدوده عادی
                           <span id="normalline"
                             >8,4,0,0,0,0,1,4,4,10,10,10,10,0,0,0,4,6,5,9,10</span
                           >
                         </p>
 
                         <p>
-                          Composite bar
+                          میله‌ای مرکب
                           <span id="compositebar">4,6,7,7,4,3,2,1,4</span>
                         </p>
 
                         <p>
-                          Discrete
+                          گسسته
                           <span class="discrete1"
                             >4,6,7,7,4,3,2,1,4,4,5,6,7,6,6,2,4,5</span
                           ><br />
 
-                          Discrete with threshold
+                          گسسته با آستانه مشخص
                           <span id="discrete2">4,6,7,7,4,3,2,1,4</span>
                         </p>
 
                         <p>
-                          Bullet charts<br />
+                          نمودار گلوله‌ای<br />
                           <span class="sparkbullet">10,12,12,9,7</span><br />
                           <span class="sparkbullet">14,12,12,9,7</span><br />
                           <span class="sparkbullet">10,12,14,9,7</span><br />
@@ -1087,36 +1092,36 @@
                       <!-- /.col -->
                       <div class="col-sm-6">
                         <p>
-                          Customize size and colours
+                          شخصی‌سازی اندازه و رنگ
                           <span id="linecustom">10,8,9,3,5,8,5,7</span>
                         </p>
 
                         <p>
-                          Tristate charts
+                          نمودار سه حالتی
                           <span class="sparktristate"
                             >1,1,0,1,-1,-1,1,-1,0,0,1,1</span
                           ><br />
-                          (think games won, lost or drawn)
+                          (مثلاً: برنده، بازنده، یا مساوی در یک رقابت)
                         </p>
 
                         <p>
-                          Tristate chart using a colour map:
+                          نمودار سه حالتی و استفاده از یک نقشه تطابق رنگ:
                           <span class="sparktristatecols"
                             >1,2,0,2,-1,-2,1,-2,0,0,1,1</span
                           >
                         </p>
 
                         <p>
-                          Box Plot:
+                          نمودار جعبه‌ای:
                           <span class="sparkboxplot"
                             >4,27,34,52,54,59,61,68,78,82,85,87,91,93,100</span
                           ><br />
-                          Pre-computed box plot
-                          <span class="sparkboxplotraw">Loading..</span>
+                          نمودار جعبه‌ای قبلاً محاسبه‌شده
+                          <span class="sparkboxplotraw">در حال بارگیری..</span>
                         </p>
 
                         <p>
-                          Pie charts
+                          نمودار دایره‌ای
                           <span class="sparkpie">1,1,2</span>
                           <span class="sparkpie">1,5</span>
                           <span class="sparkpie">20,50,80</span>
