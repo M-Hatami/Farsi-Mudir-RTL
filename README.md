@@ -1,7 +1,7 @@
 <h2 dir="rtl">معرفی</h2>
 <p dir="rtl"><strong><a href="https://teal-sawine-9b3efd.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب کاملا واکنش‌گرا است که برای ایجاد قاب مدیریت زیبا ایجاد شده است. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده سازی شده و کاملا قابل شخصی سازی است.</p>
 
-<p dir="rtl">برای ارائه زنده روی <a href="https://teal-sawine-9b3efd.netlify.app/">نمونه برخط</a> بزنید یا برای صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a></p>
+<p dir="rtl">برای ارائه زنده روی <a href="https://teal-sawine-9b3efd.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
 <p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده اما توسط حسام موسوی فارسی سازی شده و از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
