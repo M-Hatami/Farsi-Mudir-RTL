@@ -22,7 +22,7 @@
 <p dir="rtl">- کپی بر روی سیستم خودتان</p>
 
 ```
-git clone https://github.com/Hesammousavi/PersianAdminLTE.git
+git clone https://github.com/M-Hatami/Farsi-Mudir-RTL.git
 ```
 
 <h2 dir="rtl">مستندات</h2>
@@ -49,5 +49,5 @@ git clone https://github.com/Hesammousavi/PersianAdminLTE.git
   <li>در نهایت درخواست Pull Request برای ما ارسال کنید</li>
 </ul>
 
-<h2 dir="rtl">لایسنس</h2>
-<p dir="rtl">لایسنس این طرح متعلق به AdminLTE.io میباشد . و بدلیل اوپن سورس بودن آن ما توانستیم آن را به شکل فارسی در آورده و در اختیار شما قرار دهیم. زنده باد دنیای اوپن سورس</p>
+<h2 dir="rtl">گواهی</h2>
+<p dir="rtl">گواهی این طرح متعلق به AdminLTE.io میباشد . و بدلیل متن‌باز بودن آن ما توانستیم آن را به شکل فارسی در آورده و در اختیار شما قرار دهیم. </p>
