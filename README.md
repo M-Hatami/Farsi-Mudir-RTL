@@ -3,7 +3,7 @@
 
 <p dir="rtl">برای ارائه زنده روی <a href="https://teal-sawine-9b3efd.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
-<p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده اما توسط حسام موسوی فارسی سازی شده و از این به بعد بر اساس این نسخه توسعه داده میشود</p>
+<p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده اما توسط <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> فارسی سازی شده و از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
 !["AdminPanel"](https://roocket.ir/public/images/2018/12/17/adminpanel.png "Admin Panel")
 
