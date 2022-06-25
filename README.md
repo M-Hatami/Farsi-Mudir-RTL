@@ -1,25 +1,25 @@
 <h2 dir="rtl">معرفی</h2>
-<p dir="rtl"><strong><a href="https://teal-sawine-9b3efd.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب کاملا واکنش‌گرا است که برای ایجاد قاب مدیریت زیبا ایجاد شده است. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده سازی شده و کاملا قابل شخصی سازی است.</p>
+<p dir="rtl"><strong><a href="https://farsi-mudir-rtl.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب کاملا واکنش‌گرا است که برای ایجاد یک قاب مدیریت کاربردی و زیبا ایجاد شده است. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده سازی شده و کاملا قابل شخصی سازی است.</p>
 
-<p dir="rtl">برای ارائه زنده روی <a href="https://teal-sawine-9b3efd.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
+<p dir="rtl">برای ارائه زنده روی <a href="https://farsi-mudir-rtl.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
-<p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده اما توسط <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> فارسی سازی شده و از این به بعد بر اساس این نسخه توسعه داده میشود</p>
+<p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده و سپس توسط <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> فارسی‌سازی شده و اینجا ما نسخه‌ای را از ظرف آقای <a href="https://github.com/KasraK2K/PersianAdminLTE">کسری کرمی</a> چنگال زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
-!["AdminPanel"](https://roocket.ir/public/images/2018/12/17/adminpanel.png "Admin Panel")
+!["AdminPanel"](/rtl-admin-dashboard-panel-farsi-arabic-template.jpg "RTL Admin Panel Farsi Arabic Dashboard")
 
-<p dir="rtl">این قابل با استفاده از css و html و javascript توسعه داده شده است</p>
+<p dir="rtl">این قاب مدیریت سامانه فارسی با سمت راست-به-چپ از فناوریهای سی‌اس‌اس، اس‌سی‌اس‌اس، اچ‌تی‌ام‌ال، و جاوااسکریپت بهره میبرد.</p>
 
 <h2 dir="rtl">نصب و راه اندازی</h2>
 
-<h4 dir="rtl">دانلود</h4>
+<h4 dir="rtl">بارگیری</h4>
 
-<p dir="rtl">شما میتوانید هم از طریق گیت‌هاب و هم از طریق وبسایت راکت اقدام به دانلود این قالب کنید</p>
+<p dir="rtl">شما میتوانید هم از طریق گیت‌هاب و هم از طریق تارنمای راکت اقدام به بارگیری و ذخیره این قالب بر روی دستگاه خود کنید</p>
 
-<h4 dir="rtl">استفاده از رابط کامندی</h4>
+<h4 dir="rtl">استفاده از رابط دستوری</h4>
 
 <h4 dir="rtl">گیت‌هاب</h4>
 
-<p dir="rtl">- کپی بر روی سیستم خودتان</p>
+<p dir="rtl">- ذخیره یک رونوشت بر روی دستگاه رایانه خودتان</p>
 
 ```
 git clone https://github.com/M-Hatami/Farsi-Mudir-RTL.git
@@ -38,15 +38,15 @@ git clone https://github.com/M-Hatami/Farsi-Mudir-RTL.git
 </ul>
 
 <h2 dir="rtl">همکاری در توسعه</h2>
-<p dir="rtl">با همکاری در این طرح شما هم جزئی از دنیای اوپن سورس خواهید بود</p>
+<p dir="rtl">با همکاری در این طرح شما هم جزئی از دنیای متن‌باز خواهید بود</p>
 
 <h4 dir="rtl">روش همکاری</h4>
 <ul dir="rtl">
-  <li>ابتدا از طرح فعلی Fork بگیرید</li>
-  <li>طرح Fork شده را بر روی سیستم خودتان Clone کنید</li>
-  <li>یک Branch جدید بر روی سیستم خودتان ایجاد کنید</li>
+  <li>ابتدا از طرح فعلی یک چنگال (Fork) بگیرید</li>
+  <li>طرح چنگال شده را از  داخل مخزن (Repository) خودتان در گیت‌هاب بر روی دستگاه‌تان شبیه‌سازی (Clone) کنید</li>
+  <li>یک شاخه (Branch) جدید با هر اسم دلخواهی که خواستید بر روی دستگاه خودتان ایجاد کنید</li>
   <li>تغییرات خودتان را اعمال کنید</li>
-  <li>در نهایت درخواست Pull Request برای ما ارسال کنید</li>
+  <li>در نهایت درخواست ادغام (Pull Request) متن برنامه خودتان با این طرح را برای ما ارسال فرمایید</li>
 </ul>
 
 <h2 dir="rtl">گواهی</h2>
