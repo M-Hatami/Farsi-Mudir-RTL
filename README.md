@@ -1,9 +1,9 @@
 <h2 dir="rtl">معرفی</h2>
-<p dir="rtl"><strong><a href="https://farsi-mudir-rtl.netlify.app/" target="_blank">Farsi-Mudir-RTL</a></strong> یک قالب واکنش‌گرا برای ایجاد یک قاب مدیریت کاربردی و زیبا میباشد. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com" target="_blank">بوت‌استرپ 4</a> پیاده‌سازی شده و قابل شخصی‌سازی است.</p>
+<p dir="rtl"><strong><a href="https://farsi-mudir-rtl.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب واکنش‌گرا برای ایجاد یک قاب مدیریت کاربردی و زیبا میباشد. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده‌سازی شده و قابل شخصی‌سازی است.</p>
 
-<p dir="rtl">برای ارائه زنده روی <a href="https://farsi-mudir-rtl.netlify.app/" target="_blank">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/" target="_blank">میزبانی شده روی گیت‌هاب</a> بروید.</p>
+<p dir="rtl">برای ارائه زنده روی <a href="https://farsi-mudir-rtl.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
-<p dir="rtl">قابل ذکر است که این قالب ابتداً توسط AdminLTE.io ایجاد شده و سپس توسط آقای <a href="https://github.com/Hesammousavi/PersianAdminLTE" target="_blank">حسام موسوی</a> راست-به-چپ و فارسی‌ شده و اینجا ما نسخه‌ای را از ظرف (Repository) آقای <a href="https://github.com/KasraK2K/PersianAdminLTE" target="_blank">کسری کرمی</a> چنگال (fork) زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
+<p dir="rtl">قابل ذکر است که این قالب ابتداً توسط AdminLTE.io ایجاد شده و سپس توسط آقای <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> راست-به-چپ و فارسی‌ شده و اینجا ما نسخه‌ای را از ظرف (Repository) آقای <a href="https://github.com/KasraK2K/PersianAdminLTE">کسری کرمی</a> چنگال (fork) زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
 !["AdminPanel"](/rtl-admin-dashboard-panel-farsi-arabic-template.jpg "RTL Admin Panel Farsi Arabic Dashboard")
 
