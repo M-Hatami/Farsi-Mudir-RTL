@@ -3,7 +3,10 @@
 
 <p dir="rtl">برای ارائه زنده روی <a href="https://farsi-mudir-rtl.netlify.app/" target="_blank">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/" target="_blank">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
-<p dir="rtl">برای ارائه زنده روی [نمونه برخط](https://farsi-mudir-rtl.netlify.app/){:target="_blank" rel="noopener"} بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/" target="_blank">میزبانی شده روی گیت‌هاب</a> بروید.</p>
+<p dir="rtl">برای ارائه زنده روی پیوند نمونه برخط زیر بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/" target="_blank">میزبانی شده روی گیت‌هاب</a> بروید.</p>
+
+[نمونه برخط](https://farsi-mudir-rtl.netlify.app/){:target="_blank" rel="noopener"}
+
 
 <p dir="rtl">قابل ذکر است که این قالب ابتداً توسط AdminLTE.io ایجاد شده و سپس توسط آقای <a href="https://github.com/Hesammousavi/PersianAdminLTE" target="_blank">حسام موسوی</a> راست-به-چپ و فارسی‌ شده و اینجا ما نسخه‌ای را از ظرف (Repository) آقای <a href="https://github.com/KasraK2K/PersianAdminLTE" target="_blank">کسری کرمی</a> چنگال (fork) زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
