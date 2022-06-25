@@ -1,13 +1,13 @@
 <h2 dir="rtl">معرفی</h2>
-<p dir="rtl"><strong><a href="https://farsi-mudir-rtl.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب کاملا واکنش‌گرا است که برای ایجاد یک قاب مدیریت کاربردی و زیبا ایجاد شده است. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده سازی شده و کاملا قابل شخصی سازی است.</p>
+<p dir="rtl"><strong><a href="https://farsi-mudir-rtl.netlify.app/">Farsi-Mudir-RTL</a></strong> یک قالب واکنش‌گرا برای ایجاد یک قاب مدیریت کاربردی و زیبا میباشد. این قالب بر اساس چهارچوب <a href="https://getbootstrap.com">بوت‌استرپ 4</a> پیاده‌سازی شده و قابل شخصی‌سازی است.</p>
 
 <p dir="rtl">برای ارائه زنده روی <a href="https://farsi-mudir-rtl.netlify.app/">نمونه برخط</a> بزنید یا برای مراجعه به صفحه <a href="https://m-hatami.github.io/Farsi-Mudir-RTL/">میزبانی شده روی گیت‌هاب</a> بروید.</p>
 
-<p dir="rtl">قابل ذکر است که این قالب توسط AdminLTE.io آماده سازی شده و سپس توسط <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> فارسی‌سازی شده و اینجا ما نسخه‌ای را از ظرف آقای <a href="https://github.com/KasraK2K/PersianAdminLTE">کسری کرمی</a> چنگال زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
+<p dir="rtl">قابل ذکر است که این قالب ابتداً توسط AdminLTE.io ایجاد شده و سپس توسط آقای <a href="https://github.com/Hesammousavi/PersianAdminLTE">حسام موسوی</a> راست-به-چپ و فارسی‌ شده و اینجا ما نسخه‌ای را از ظرف (Repository) آقای <a href="https://github.com/KasraK2K/PersianAdminLTE">کسری کرمی</a> چنگال (fork) زدیم. از این به بعد بر اساس این نسخه توسعه داده میشود</p>
 
 !["AdminPanel"](/rtl-admin-dashboard-panel-farsi-arabic-template.jpg "RTL Admin Panel Farsi Arabic Dashboard")
 
-<p dir="rtl">این قاب مدیریت سامانه فارسی با سمت راست-به-چپ از فناوریهای سی‌اس‌اس، اس‌سی‌اس‌اس، اچ‌تی‌ام‌ال، و جاوااسکریپت بهره میبرد.</p>
+<p dir="rtl">این قاب مدیریت سامانه‌ی فارسی با سمت راست-به-چپ از فناوریهای سی‌اس‌اس، اس‌سی‌اس‌اس، اچ‌تی‌ام‌ال، و جاوااسکریپت بهره میبرد.</p>
 
 <h2 dir="rtl">نصب و راه اندازی</h2>
 
@@ -25,13 +25,11 @@
 git clone https://github.com/M-Hatami/Farsi-Mudir-RTL.git
 ```
 
-<h2 dir="rtl">مستندات</h2>
-<p dir="rtl">بزودی صفحه مستندات هم راه اندازی خواهد شد</p>
-
 <h2 dir="rtl">پشتیبانی از مرورگرها</h2>
 <ul dir="ltr">
   <li dir="ltr">IE 10+</li>
   <li dir="ltr">Firefox (latest)</li>
+  <li dir="ltr">Yandex (latest)</li>
   <li dir="ltr">Chrome (latest)</li>
   <li dir="ltr">Safari (latest)</li>
   <li dir="ltr">Opera (latest)</li>
@@ -42,8 +40,9 @@ git clone https://github.com/M-Hatami/Farsi-Mudir-RTL.git
 
 <h4 dir="rtl">روش همکاری</h4>
 <ul dir="rtl">
-  <li>ابتدا از طرح فعلی یک چنگال (Fork) بگیرید</li>
-  <li>طرح چنگال شده را از  داخل مخزن (Repository) خودتان در گیت‌هاب بر روی دستگاه‌تان شبیه‌سازی (Clone) کنید</li>
+  <li>ابتدا از طرح فعلی یک <a href="https://github.com/M-Hatami/Farsi-Mudir-RTL/fork">چنگال</a> (Fork) بگیرید</li>
+  
+  <li>طرح چنگال شده را از  داخل مخزن (Repository) خودتان در گیت‌هاب بر روی دستگاه‌تان بوسیله استفاده از دکمه ```Code```شبیه‌سازی (Clone) کنید</li>
   <li>یک شاخه (Branch) جدید با هر اسم دلخواهی که خواستید بر روی دستگاه خودتان ایجاد کنید</li>
   <li>تغییرات خودتان را اعمال کنید</li>
   <li>در نهایت درخواست ادغام (Pull Request) متن برنامه خودتان با این طرح را برای ما ارسال فرمایید</li>
